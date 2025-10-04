@@ -1,5 +1,6 @@
 # Ignore the .env file
 .env
+.token
 
 # Ignore Python compiled files
 __pycache__/
